@@ -1,0 +1,24 @@
+{
+  "annotations": {"list": []},
+  "editable": true,
+  "gnetId": null,
+  "graphTooltip": 0,
+  "panels": [
+    {
+      "type": "text",
+      "title": "Zabbix Overview",
+      "gridPos": {"x": 0, "y": 0, "w": 24, "h": 3},
+      "options": {"content": "# Zabbix Overview\nThis dashboard shows basic host availability from Zabbix."}
+    }
+  ],
+  "schemaVersion": 38,
+  "style": "dark",
+  "tags": ["zabbix"],
+  "templating": {"list": []},
+  "time": {"from": "now-6h", "to": "now"},
+  "timezone": "",
+  "title": "Zabbix Overview",
+  "version": 1
+}
+
+
